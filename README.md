@@ -17,11 +17,10 @@ def hello_world():
 hello_world()
 ```
 
-```
+```javascript
 console.log("h")
 ```
 ```lol```
 
-```javascript
-var a =4 ;```
+```var a =4 ;```
 
