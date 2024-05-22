@@ -8,5 +8,12 @@ Want to Know facts you never knew about your life.
 
 
 ## How it Works
-Age_Doctor is a shell executable software which is programmed to accept user logs and transform inputs using mathematical algorithms into list of facts ```bash hi``` never knew. 
+Age_Doctor is a shell executable software which is programmed to accept user logs and transform inputs using mathematical algorithms into list of facts you never knew. 
+
+```python
+def hello_world():
+    print("Hello, world!")
+
+hello_world()
+```
 
