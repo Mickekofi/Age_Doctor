@@ -17,3 +17,11 @@ def hello_world():
 hello_world()
 ```
 
+```
+console.log("h")
+```
+```lol```
+
+```javascript
+var a =4 ;```
+
