@@ -20,7 +20,9 @@ hello_world()
 ```javascript
 console.log("h")
 ```
-```lol```
+```
+lol
+```
 
-```var a =4 ;```
+```javascript var a =4 ;```
 
