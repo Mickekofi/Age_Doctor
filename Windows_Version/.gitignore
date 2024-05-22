@@ -1,0 +1,8 @@
+# Ignore the mingw-w64-master directory
+mingw-w64-master/
+
+# Ignore the .vscode directory
+.vscode/
+
+# Ignore other directories
+
