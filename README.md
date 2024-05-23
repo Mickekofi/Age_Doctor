@@ -71,11 +71,11 @@ echo "Windows_Version/*" >> .git/info/sparse-checkout
 git pull origin master
 ```
 
-```
+
 
 Navigate To
 
-```
+
 
 ```
 
