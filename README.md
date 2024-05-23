@@ -18,13 +18,13 @@ Age_Doctor is a ```shell executable software``` which is programmed to accept us
 ![Preview](https://media.giphy.com/media/WkR1rKoiitnogUbtIF/giphy.gif)
 
 ## [ Features ]
-### Explore Precise
+### 🤔Explore Precise
 - Days Lived
 - Hours Lived
 - Minutes Lived
 - Seconds Lived
 - Age Acquired
-- Time left to exist
+- Time left to exist🙄
 
 
 ## [ Installation ]
@@ -34,7 +34,11 @@ you can directly download only the executable program from below
 [Download for Windows](https://github.com/Mickekofi/Age_Doctor/blob/master/Windows_Version/Age_Doctor.exe 
 )
 
-``` OR ```
+Then Drag it to Desktop
+
+``` OR ``` 
+
+- Want to Clone the Entire Windows Version and Modify the files consider...
 
 Have git Install on your System
 [Download git official page ](
@@ -47,7 +51,7 @@ I recommend reading this third party article in other to do the setup
 )
 
 
-Ater that then  ``` Clone ``` the Windows Version Only by using...
+Ater that then  ``` Clone ``` the Entire Windows Version Only by using...
 
 
 ```sh
@@ -143,7 +147,7 @@ I will definitely appreciate and mention you if you would want to Contribute eit
 
 or
 
- ```! Hit me in one of the Links and Lets Build Together !```
+ ```! Hit me in one of the Links and Lets Build Projects Together !```
 
 
 
