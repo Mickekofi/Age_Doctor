@@ -157,9 +157,9 @@ or
 
 ## Acknowledgements
 
-- Automating program Compilation using a well structured Makefile was based on one of the works of Partow
+- Automating program Compilation using a well structured Makefile was based on one of the works of Arash Partow
 
-- find him at
+ ```Greet him at..```
  - [Arash Partow ~ partow.net](http://www.partow.net/programming/makefile/index.html)
  
 ## Related
