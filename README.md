@@ -61,6 +61,8 @@ git remote add origin https://github.com/Mickekofi/Age_Doctor.git
 git config core.sparseCheckout true
 
 ```
+
+```
 echo "Windows_Version/*" >> .git/info/sparse-checkout
 ```
 
@@ -72,6 +74,8 @@ git pull origin master
 ```
 
 Navigate To
+
+```
 
 ```
 
