@@ -10,6 +10,8 @@ Want to Know facts you never knew about your life.
 
 
 ## [ How it Works ]
+
+
 Age_Doctor is a ```shell executable software``` which is programmed to accept user logs and transform inputs using ```mathematical algorithms``` into list of facts you never knew.
 
 ![Preview](https://media.giphy.com/media/WkR1rKoiitnogUbtIF/giphy.gif)
@@ -124,14 +126,24 @@ git clone https://github.com/Mickekofi/Age_Doctor.git
 ## [ DOC ]
 ### see also 
 
-- Looking for how to run and Compile the cpp files for Linux try and read me article  ... 
+- Looking for how to run and Compile the cpp files for Linux using a Structered Automation file try and read me article below ... 
 
+[ Article 1]( https://tiny-moles-dig.loca.lt)
+ 
 
 - Searching for how to build and run and ship Windows Executable cpp programs Using Linux, try and see me article below...
 
+
+[Article 2](https://violet-comics-sit.loca.lt)
+ 
 ## [ Support ]
 
 I will definitely appreciate and mention you if you would want to Contribute either by ```fork```  , ```pull request``` and suggestings through ```issues``` .
+
+or
+
+ ```! Hit me in one of the Links and Lets Build Together !```
+
 
 
 ## 🔗 Links
@@ -140,3 +152,18 @@ I will definitely appreciate and mention you if you would want to Contribute eit
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-appiah-9b6919255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Hit%20Me-brightgreen)](https://wa.me/+233597326320)
+
+
+
+## Acknowledgements
+
+- Automating program Compilation using a well structured Makefile was based on one of the works of Partow
+
+- find him at
+ - [Arash Partow ~ partow.net](http://www.partow.net/programming/makefile/index.html)
+ 
+## Related
+
+Wait for the Next Project... 
+
+!Happy Exploring!
