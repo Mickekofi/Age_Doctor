@@ -31,7 +31,7 @@ Age_Doctor is a ```shell executable software``` which is programmed to accept us
 ### - On Windows Machine
 you can directly download only the executable program from below
 
-[Download for Windows](https://github.com/Mickekofi/Age_Doctor/blob/master/Windows_Version/Age_Doctor.exe 
+[Download for Windows](https://github.com/Mickekofi/Age_Doctor/blob/master/Windows_Version/exe_software/Age_Doctor.zip
 )
 
 Then Drag it to Desktop
